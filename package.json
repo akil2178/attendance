@@ -1,0 +1,1 @@
+{ "name": "laudea-web", "private": true, "scripts": { "start": "node start.js" }, "engines": { "node": ">=18" } }
