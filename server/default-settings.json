@@ -1,0 +1,18 @@
+{
+  "maintenanceMode": false,
+  "maintenanceMessage": "System undergoing semester grading updates.",
+  "visibleFields": {
+    "netPresentExcemptionPercentage": true,
+    "totalworkingTillDate": true,
+    "presentCountTillDate": true,
+    "presentWithExemptionCountTillDate": true,
+    "absentCountTillDate": true,
+    "exemptionCountTillDate": true,
+    "enteredTillDate": true,
+    "notEnteredTillDate": true,
+    "purePercentage": true,
+    "timetable": true,
+    "calculator": true,
+    "marks": true
+  }
+}
